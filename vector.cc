@@ -21,7 +21,7 @@ vector<type> name = { list of stuff };
  // To get the size of a vector and how many elements are in it 
  vector_name.size()
 
- vector<int> v = {1,2,3,4};
+ vector<int> v = {1,2,3};
  int x = v.size();
  // Which would output x as 3 
 
